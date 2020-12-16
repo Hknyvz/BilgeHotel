@@ -5,3 +5,4 @@ begin
 	set @i=@i+1
 end
 select *from MaasHesaplamalar
+
